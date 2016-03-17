@@ -6,9 +6,8 @@ title: Chrome Dev Tools
 type: lesson
 duration: "1:15"
 creator:
-    name: Gerry Mathe, Alex Chin
-    city: London
-competencies: Workflow
+    name:Shawn Johnson
+    city: Atlanta
 ---
 
 # Chrome Dev Tools
@@ -28,9 +27,13 @@ competencies: Workflow
 
 ## What are Dev Tools? – Intro (5 mins)
 
+One of the most important traits a developer can have is a inner sherlock homes, A developer needs to be a world class detective. Always having an eye for looking deeper under the surface. 
+[http://cdn2.hubspot.net/hub/485203/file-2549982505-jpg/blog-files/sherlock_holmes_questionmark_white_bg-289x300.jpg] 
+Every great detective needs a great set of tools, Looking for us we have a great set of tools right in front of us.  
+
 Most modern browsers include a set of tools that allow developers to monitor and explore what's going on in a web page. The Chrome Developer Tools, which we often call the "Dev Tools", are a set of debugging tools built into Google Chrome.
 
-We can do a lot of useful things with these tools, but some of the things that are most useful:
+ We can do a lot of useful things with these tools, but some of the things that are most useful:
 
 - We can view the HTML & CSS as the browser has understood them
 - We can watch requests and responses as they are made and received
