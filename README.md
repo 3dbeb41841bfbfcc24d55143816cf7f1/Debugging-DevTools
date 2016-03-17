@@ -61,20 +61,21 @@ If you forget these commands, you can always go to *View > Developer > Developer
 
 Overall, there are eight main tools available in the Developer Tools. You may see people with a few more as you can add custom ones using extensions.
 
+- [**Console**](https://developer.chrome.com/devtools/docs/console): The JavaScript Console
+- [**Network**](https://developer.chrome.com/devtools/docs/network): Evaluating network performance
 - [**Elements**](https://developer.chrome.com/devtools/docs/dom-and-styles): Editing Styles And The DOM
 - [**Resources**](https://developer.chrome.com/devtools/docs/resource-panel): Managing application storage
-- [**Network**](https://developer.chrome.com/devtools/docs/network): Evaluating network performance
 - **Sources**: A graphical interface to the V8 debugger
 - [**Timeline**](https://developer.chrome.com/devtools/docs/timeline): Performance profiling with the Timeline
 - [**Profiles**](https://developer.chrome.com/devtools/docs/profiles): Profile the execution time and memory usage of a web app or page.
 - **Audits**: The Audit panel can analyze a page as it loads.
-- [**Console**](https://developer.chrome.com/devtools/docs/console): The JavaScript Console
+
 
 We won't use all of these tabs during the course, the key ones we are going to get very familiar with are:
 
-- **Elements**
-- **Network**
-- **Console**
+- **Console  Where you write code** 
+- **Elements  Where you examine code **
+- **Network Where you see results of nextwork request**
 
 #### Elements Tab
 
