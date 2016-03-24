@@ -17,6 +17,7 @@ creator:
 
 - Open and describe the components of the Chrome developer tools
 - Use the developer tools to manipulate page elements (HTML/CSS)
+- Starting to learn how to debug our code.
 
 ### Preparation
 *Before this lesson, students should already be able to:*
@@ -222,6 +223,15 @@ This is meant to be exploratory!  So you'll have to dig through some HTML elemen
 
 The General Assembly large logo can be sourced from the [General Assembly homepage](https://generalassemb.ly/) and the smaller logo, in the search bar, will have to be found through Google.  
 Remember, don't refresh the page, otherwise you'll lose all your work modifying the DOM.  
+
+##Debugging your Front End Code (10mins)
+As a good developer/detective you will need to be able process the clues you find using the Chrome dev tools
+You will need to learn how to debug your code to help you fix bugs, and to learn how things work.
+
+So we are going to go throuh a few tips.
+
+[Debugging in Chrome Dev Tools](https://developer.chrome.com/devtools/docs/javascript-debugging)
+
 
 ## Conclusion (5 mins)
 
